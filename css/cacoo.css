@@ -1,0 +1,44 @@
+
+.panel_wrapper{
+	height:460px;
+	overflow:auto;
+}
+
+#diagrams_wrapper{
+	height:120px;
+	overflow:auto;
+}
+
+#diagrams{
+	width:98%;
+	border-width:0;
+	border-collapse: collapse;
+    border-spacing: 0;	
+}
+
+#diagrams_status{
+	margin : 4px;
+	height : 14px;
+	text-align:right;
+}
+
+.diagram_over{
+	background-color: #ddd;
+}
+
+.diagram_selected{
+	background-color: #2B6FB6;
+}
+
+#preview{
+	height:200px;
+	text-align:center;
+}
+
+#preview_notice{
+	text-align:right;
+}
+
+.size_input{
+	width: 40px;
+}
